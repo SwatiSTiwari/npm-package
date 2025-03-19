@@ -4,7 +4,7 @@ Import and use the Hero component in your React application:
 
 ```jsx
 import React from 'react';
-import Hero from 'custom-hero-page';
+import Hero from '@npm_i_swati/custom-hero-page';
 
 function App() {
   return (
